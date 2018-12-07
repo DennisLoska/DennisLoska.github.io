@@ -1,6 +1,9 @@
 ---
 layout: post
 title: 'Hello world, pun intended!'
+category: Technology
+tags: [Jekyll, Blog, Update]
+description: My first blog running with Jekyll and hosted on Github.
 published: true
 ---
 

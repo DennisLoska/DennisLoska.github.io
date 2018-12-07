@@ -277,8 +277,18 @@ nav {
   }
 }
 
+.pagination {
+    margin-top: 50px;
+    border: 2px solid #1a1a1a;
+    display: flex;
+    justify-content: space-around;
+    background-color: lightgoldenrodyellow;
+    padding: 10px;
+    font-size: 1.2em;
+}
+
 .wrapper-footer {
-  margin-top: 20vh;
+  margin-top: 10vh;
   border-top: 1px solid #ddd;
   background-color: #1a1a1a;
 }
@@ -290,7 +300,7 @@ footer {
   a {
     transition: transform .3s ease-out;
     display: inline-block;
-    margin: 5px;
+    margin: 2px;
   } 
   a:hover {
     transform: translate(0, -5px); 

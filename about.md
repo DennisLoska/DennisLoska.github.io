@@ -12,4 +12,4 @@ I am also a christian, libertarian, high carb vegan and wannabe digital nomad tr
 
 ### Contact me
 
-[codefree@protonmail.com.com](mailto:codefree@protonmail.com)
+[codefree@protonmail.com](mailto:codefree@protonmail.com)

@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 This is a placeholder for my first blog post. I used Jekyll and Github pages to set it all up. Here is an image of how the configuration looks like:
 

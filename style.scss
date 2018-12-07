@@ -286,6 +286,13 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+  
+  a {
+    transition: transform .3s ease-out;
+  } 
+  a:hover {
+    transform: translate(0, -5px); 
+  }
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS

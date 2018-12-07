@@ -21,7 +21,7 @@ Other than that here is a list I can think of right now:
 - How to become independent and start a successful online business
 - Health & Nutrition
 
-These are just some ideas I have and you will see post when I have some quality content to offer.
+These are just some ideas I have and you will see posts when I have some quality content to offer.
 
 Stay tuned,
 

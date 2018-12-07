@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hello world, pun intended! 2'
+title: 'Hello world, pun intended!'
 published: true
 ---
 

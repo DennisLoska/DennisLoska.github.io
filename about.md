@@ -8,7 +8,7 @@ I am a 26 year old computer science student who wants to become an entrepreneur 
 
 ### More Information
 
-I am a christian, libertarian, high carb vegan and wannabe digital nomad trying to become the best version of myself. That kind of sounds funny :)
+I am also a christian, libertarian, high carb vegan and wannabe digital nomad trying to become the best version of myself, while hopefully helping others :)
 
 ### Contact me
 

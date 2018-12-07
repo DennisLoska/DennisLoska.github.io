@@ -15,6 +15,7 @@ avatar: https://pbs.twimg.com/profile_images/1031178280022495234/0n3K7Y6p_400x40
 #
 # Flags below are optional
 #
+paginate: 5
 
 # Includes an icon in the footer for each username you enter
 footer-links:

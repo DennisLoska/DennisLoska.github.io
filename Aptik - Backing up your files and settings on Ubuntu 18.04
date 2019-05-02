@@ -1,5 +1,14 @@
 ---
 published: false
+layout: post
+category: Ubuntu
+tags:
+  - Linux
+  - Ubuntu
+  - Backup
+  - Aptik
+  - Clonezilla
+description: Why Aptik is a great tool for backup up your Ubuntu system.
 ---
 ## Backing up Ubuntu
 
@@ -13,6 +22,8 @@ That's why I decided to look for a backup solution, which would backup my system
 
 Sounds great!
 
+### Installation & Experience
+
 Fortunately installing Aptik is **pretty easy:**
 
 ```shell
@@ -20,6 +31,12 @@ sudo apt-add-repository -y ppa:teejee2008/ppa
 sudo apt-get update
 sudo apt-get install aptik aptik-gtk
 ```
+
+I already used update for the past few months and successfully restored my Ubuntu system from my Laptop on another device, whilst upgrading the distribution and it worked really well. Now I just run _Aptik_ about once a week. Regular backups are important in my opinion.
+
+![_config.yml]({{ site.baseurl }}/images/aptik_backup.png)
+
+## What exactly can you do with Aptik?
 
 The way Aptik works is it backups basically all your options, settings, themes, wallpapers, the _home directory_ and so on. These are the key points to consider when **backing up & restoring** your system:
 
@@ -32,11 +49,24 @@ The way Aptik works is it backups basically all your options, settings, themes, 
 
 > Aptik should only be used to migrate between two installations of same distribution. For example, you can migrate from Fedora 24 to Fedora 25, or from Ubuntu 17.04 to Ubuntu 17.10, but not from Fedora to Ubuntu.
 
+Aptik may not provide a backup of your whole partition, but for my use case as a simple system under which I develop things, I don't need to backup the whole partition. Besides that, restoring a Linux system is way easier by just reinstalling it and then using Aptik to restore the settings, than to restore it form Clonezilla, especially when you want to restore it on a **different device**. With Clonezilla you would end up messing around with the partitioning of your new device, which is not fun, if you try to setup a dual boot system.
+
+You can still use Clonezilla off course, but I would use it to probably to backup the whole drive, and not only the partitions containing the Linux system.
 
 
 
-Aptik should only be used to migrate between two installations of same architecture. For example, you can migrate from 32-bit to 32-bit system, or from 64-bit to 64-bit system, but not from 32-bit to 64-bit. This is because package names and repositories vary between different architecures and cannot be migrated.
 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+
+
+
+
+
+
+
+
+
+
+
+
 

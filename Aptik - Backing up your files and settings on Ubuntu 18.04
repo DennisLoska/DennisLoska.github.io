@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 category: Ubuntu
 tags:
@@ -52,21 +52,3 @@ The way Aptik works is it backups basically all your options, settings, themes, 
 Aptik may not provide a backup of your whole partition, but for my use case as a simple system under which I develop things, I don't need to backup the whole partition. Besides that, restoring a Linux system is way easier by just reinstalling it and then using Aptik to restore the settings, than to restore it form Clonezilla, especially when you want to restore it on a **different device**. With Clonezilla you would end up messing around with the partitioning of your new device, which is not fun, if you try to setup a dual boot system.
 
 You can still use Clonezilla off course, but I would use it to probably to backup the whole drive, and not only the partitions containing the Linux system.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

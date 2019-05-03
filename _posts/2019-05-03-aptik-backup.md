@@ -36,7 +36,7 @@ sudo apt-get install aptik aptik-gtk
 
 I already used update for the past few months and successfully restored my Ubuntu system from my Laptop on another device, whilst upgrading the distribution and it worked really well. Now I just run _Aptik_ about once a week. Regular backups are important in my opinion.
 
-![Aptik backup]({{ site.baseurl }}/images/aptik_backup.png)
+![aptik backup.png]({{site.baseurl}}/_posts/aptik_backup.png)
 
 ## What exactly can you do with Aptik?
 

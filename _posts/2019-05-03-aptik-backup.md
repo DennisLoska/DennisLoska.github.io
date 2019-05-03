@@ -10,6 +10,8 @@ tags:
   - Clonezilla
 description: Why Aptik is a great tool for backup up your Ubuntu system.
 ---
+Aptik is a great tool to backup your Ubuntu system. Don't worry about partitions and problems anymore when changing devices and restoring systems.
+
 ## Backing up Ubuntu
 
 In the past I have been using Clonezilla to backup my Ubuntu installation, but I wasn't happy with it. It took too long, I was not being productive, and overall the need create a bootable device using the Clonezilla ISO was not fun for me. Furthermore restoring such a backup was equally problematic. Let's face it:

@@ -19,7 +19,7 @@ In the past I have been using Clonezilla to backup my Ubuntu installation, but I
 
 **I want to backup my files, not dealing with filesystem problems!**
 
-That's why I decided to look for a backup solution, which would backup my systems settings, installed data, packages, themes etc.. I wanted to be able to work, while backing up my system in the background. So I started to search and stumbled upon [Aptik](https://github.com/teejee2008/aptik "Aptik")
+That's why I decided to look for a backup solution, which would backup my systems settings, installed packages, data, themes etc.. I wanted to be able to work, while backing up my system in the background. So I started to search and stumbled upon [Aptik](https://github.com/teejee2008/aptik "Aptik").
 
 > Aptik is a tool for migrating settings and data from one Linux installation to another. It can be used while re-installing the operating system, and when moving to next release of a Linux distribution.
 
@@ -35,7 +35,7 @@ sudo apt-get update
 sudo apt-get install aptik aptik-gtk
 ```
 
-I already used update for the past few months and successfully restored my Ubuntu system from my Laptop on another device, whilst upgrading the distribution and it worked really well. Now I just run _Aptik_ about once a week. Regular backups are important in my opinion.
+I already used Aptik for the past few months and successfully restored my Ubuntu system from my Laptop on another device, whilst upgrading the distribution and it worked really well. Now I just run _Aptik_ about once a week. Regular backups are important in my opinion.
 
 ![aptik backup.png]({{site.baseurl}}/images/aptik_backup.png)
 

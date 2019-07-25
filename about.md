@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-I am a 27 year old computer science student who wants to become an entrepreneur or digital nomad sometime in the future. 
+Hi there! My name is Dennis and I am a computer science student from Berlin. Besides coding I like cycling and do some weight lifting and running from time to time. I also enjoy taking photos to capture some memories in pixel format on my Instagram acoount. Ubuntu is my go to operating system and VSCode my favorite code editor.
 
-### More Information
+I like the idea of starting my own business and being independent.Freedom is very important to me, not only on an individual level, but also in society in general. I am against business damaging regulations, taxes and other governmental influence in the free market and so I am keeping an eye out on the possibilities in the world and different jurisdictions other than the EU and Germany, to go where I am treated better.
 
-I am also a christian, libertarian, high carb vegan and wannabe digital nomad trying to become the best version of myself, while hopefully helping others :)
+Eventually I want to either become a freelancer and be able to work remotely from anywhere in the world or become an entrepreneur and start my own business, which also would fulfill that goal. I would like to help other people in the future, when I eventually get to that point. But these are just my current plans and maybe God will change that all up! As a Christian I want to do a great job and help others!
 
-### Contact me
+### Any questions?
 
 You can contact me [here](https://www.dennisloska.com/#contact-row)

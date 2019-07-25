@@ -15,6 +15,7 @@
 
 html {
   font-size: 100%;
+  min-height: 100%;
 }
 
 body {
@@ -291,7 +292,7 @@ nav {
   margin-top: 10vh;
   border-top: 1px solid #ddd;
   background-color: #1a1a1a;
-  position: fixed;
+  position: absolute;
   width: 100%;
   bottom: 0;
 }
